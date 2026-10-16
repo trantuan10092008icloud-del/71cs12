@@ -1,3 +1,3 @@
 # 71cs12
-Repositony  đầu tiên của lớp 71cs12
-danh 
+Repositony  dau tien cua lop 71cs12
+sua doi dau tien
